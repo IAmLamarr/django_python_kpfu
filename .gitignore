@@ -1,2 +1,7 @@
 venv/
 cheat
+*.sqlite
+*.db
+cifar10
+images
+__pycache__
